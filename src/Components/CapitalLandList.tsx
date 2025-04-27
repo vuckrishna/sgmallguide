@@ -3,7 +3,7 @@ export const CapitaLandMallsList = [
       id: 1,
       name: "Aperia Mall",
       link: "https://www.capitaland.com/sg/malls/aperia/en.html",
-      pic: "https://github.com/vuckrishna/sgmallguide/blob/main/assets/capitaland/CLmall1.png",
+      pic: "./assets/capitaland/CLmall1.png",
     },
     {
       id: 2,
