@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Navigation from "./Components/Navigation";
 import CapitalLand from "./Components/CapitalLand";
 import Central from "./Components/Central";
