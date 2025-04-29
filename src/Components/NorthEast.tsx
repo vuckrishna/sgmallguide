@@ -5,7 +5,7 @@ const NorthEast = () => {
   return (
     <>
       <div
-        className="flex flex-wrap m-1 p-2 bg-red-700 justify-center text-md 
+        className="flex flex-wrap m-1 p-2 bg-red-700 rounded-md justify-center text-md 
       xl:rounded-xl xl:text-lg text-bold xl:m-2 xl:justify-start"
       >
         <h1 className="mb-4 text-white font-bold text-xl mt-4 xl:ml-8 xl:text-2xl">
