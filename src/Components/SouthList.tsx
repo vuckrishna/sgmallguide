@@ -9,13 +9,13 @@ export const SouthList = [
     },
     {
       id: 2,
-      name: "HarbourFront Centre",
+      name: "Harbour Front Cen",
       link: "https://www.harbourfrontcentre.com.sg/",
       pic: "./assets/south/Cmall2.gif",
     },
     {
       id: 3,
-      name: "Alexandra Retail Centre",
+      name: "Alexandra Retail",
       link: "https://www.arc4u.com.sg/",
       pic: "./assets/south/Cmall3.png",
     },

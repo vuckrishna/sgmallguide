@@ -51,7 +51,7 @@ export const CapitaLandMallsList = [
     id: 9,
     name: "IMM Mall",
     link: "https://www.capitaland.com/sg/malls/imm/en.html",
-    pic: "./assets/capitaland/CLmall1.png",
+    pic: "./assets/capitaland/CLmall9.png",
   },
   {
     id: 10,

@@ -33,7 +33,7 @@ export const EastList = [
     },
     {
       id: 6,
-      name: "Jewel Changi Airport",
+      name: "Jewel Changi Air",
       link: "https://www.jewelchangiairport.com/en.html",
       pic: "./assets/east/Cmall6.png",
     },
@@ -45,7 +45,7 @@ export const EastList = [
     },
     {
       id: 8,
-      name: "Katong Shopping Centre",
+      name: "Katong Centre",
       link: "https://katongshoppingcentre.com/",
       pic: "./assets/east/Cmall8.png",
     },
